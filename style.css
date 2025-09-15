@@ -1,8 +1,14 @@
 .Post {
     border: 10px solid salmon;
-    margin: 20px 0px 20px;
+    width: auto;
 }
 
 .Post_Img {
-    width: 50%;
+    width: 10%;
+}
+
+.Postlist {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
