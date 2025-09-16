@@ -1,14 +1,9 @@
+.head {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 .Post {
-    border: 10px solid salmon;
-    width: auto;
-}
-
-.Post_Img {
-    width: 10%;
-}
-
-.Postlist {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    height: 500px;
+    width: 500px    ;
 }
