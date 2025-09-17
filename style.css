@@ -1,9 +1,38 @@
+body {
+    font-family: "Jersey 10", sans-serif;
+    font-size: 30px;
+    background-color: aquamarine;
+}
+
 .head {
     text-align: center;
     margin-bottom: 50px;
 }
 
-.Post {
-    height: 500px;
-    width: 500px    ;
+.post-head {
+    margin: 10px;
+}
+
+.post {
+    border: solid rgb(7, 128, 177) 10px;
+    border-radius: 50px;
+    margin: 20px 450px;
+    text-align: center;
+    background-color:mediumturquoise;
+}
+
+.post-img {
+    width: 500px;
+    height: 400px;  
+    border: solid powderblue 10px;
+    border-radius: 75px;
+    background-color: powderblue;
+}
+
+.post-desc {
+    margin: 20px 0px;
+}
+
+.post-link {
+    padding-bottom: 30px;
 }
